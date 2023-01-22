@@ -6,8 +6,8 @@
 ## Темы:
 
 1. [Литералы](https://github.com/Barsuchek/Java-theory/blob/main/Info/Литералы.md)
-2. [Основные термины]()
-3. [Программа "Hello World"]()
-4. [Печать данных]()
-5. [Объявления и инициализация]()
-6. [Доступ к значению переменной]()
+2. [Основные термины](https://github.com/Barsuchek/Java-theory/blob/main/Info/Основные%20термины.md)
+3. [Программа "Hello World"](https://github.com/Barsuchek/Java-theory/blob/main/Info/ПрограммаHelloWorld.md)
+4. [Печать данных](https://github.com/Barsuchek/Java-theory/blob/main/Info/Печать%20данных.md)
+5. [Объявления и инициализация](https://github.com/Barsuchek/Java-theory/blob/main/Info/Объявления%20и%20инициализация.md)
+6. [Доступ к значению переменной](https://github.com/Barsuchek/Java-theory/blob/main/Info/Доступ%20к%20значению%20переменной.md)
