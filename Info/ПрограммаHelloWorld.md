@@ -1,12 +1,12 @@
 # Программа Hello World
 
-'''
+```
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
-'''
+```
 
 ## Разбор программы
 * Публичный класс(public class имя{}) - Это основная единица программы. 
