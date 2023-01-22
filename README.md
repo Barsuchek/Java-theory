@@ -5,7 +5,7 @@
 
 ## Темы:
 
-1. [Литералы]()
+1. [Литералы](https://github.com/Barsuchek/Java-theory/blob/main/Info/Литералы.md)
 2. [Основные термины]()
 3. [Программа "Hello World"]()
 4. [Печать данных]()
